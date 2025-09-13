@@ -1,4 +1,4 @@
 # GemsGame
-  Implementation of the match-three game in C++, using SFML
+  Implementation of the match-three game in C++ using SFML graphics library
   
 <img width="70%" alt="pic" src="https://github.com/user-attachments/assets/ac839cca-e741-40f0-af55-e89dff9ae4f2" />
